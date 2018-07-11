@@ -4,7 +4,7 @@
 ## Game Overview 
 
 The 'Brain Training' game is a maths game in which players are given 30 seconds
-to solve solve as many maths problems as possible when prompted with 4 different
+to solve as many maths problems as possible when prompted with 4 different
 answers. The ratio of incorrect and correct answers is tracked throughout the game.
 Development of this application involved use of data structures, Random Number Generators
 and countdown timer.
